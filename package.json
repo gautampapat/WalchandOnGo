@@ -1,0 +1,12 @@
+{
+  "name": "walchandongo",
+  "version": "1.0.0",
+  "description": "Campus navigation for Walchand College of Engineering, Sangli",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "fetch": "python tools/fetch_osm.py",
+    "verify": "node tools/verify.mjs",
+    "start": "python -m http.server 8000 --directory web"
+  }
+}

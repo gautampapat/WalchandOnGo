@@ -1,0 +1,1058 @@
+[
+ {
+  "name": "Air,Noise and Advanced Instrumentation Laboratory",
+  "lat": 16.8445837,
+  "lon": 74.6001516,
+  "kind": "lab",
+  "nearest_node": 8994690172,
+  "anchor_dist_m": 11.8
+ },
+ {
+  "name": "Ajit Gulabchand Library",
+  "lat": 16.8445036,
+  "lon": 74.601898,
+  "kind": "lab",
+  "nearest_node": 14028528362,
+  "anchor_dist_m": 37.0
+ },
+ {
+  "name": "Apple Lab",
+  "lat": 16.8455791,
+  "lon": 74.6020204,
+  "kind": "lab",
+  "nearest_node": 13682475475,
+  "anchor_dist_m": 14.2
+ },
+ {
+  "name": "Back Canteen",
+  "lat": 16.8455121,
+  "lon": 74.5998045,
+  "kind": "canteen",
+  "nearest_node": 4310623353,
+  "anchor_dist_m": 37.9
+ },
+ {
+  "name": "Back Gate",
+  "lat": 16.8456265,
+  "lon": 74.600299,
+  "kind": "gate",
+  "nearest_node": 4310623353,
+  "anchor_dist_m": 16.3
+ },
+ {
+  "name": "Badminton Hall",
+  "lat": 16.8437646,
+  "lon": 74.6012094,
+  "kind": "hall",
+  "nearest_node": 13528526260,
+  "anchor_dist_m": 28.2
+ },
+ {
+  "name": "Basketball Court",
+  "lat": 16.8438574,
+  "lon": 74.6008559,
+  "kind": "sports",
+  "nearest_node": 8994690173,
+  "anchor_dist_m": 49.5
+ },
+ {
+  "name": "Boys Hostel",
+  "lat": 16.8487375,
+  "lon": 74.6009708,
+  "kind": "hostel",
+  "nearest_node": 4310420940,
+  "anchor_dist_m": 101.3
+ },
+ {
+  "name": "Boys Reading Room",
+  "lat": 16.8450087,
+  "lon": 74.6020499,
+  "kind": "reading room",
+  "nearest_node": 4310623359,
+  "anchor_dist_m": 30.6
+ },
+ {
+  "name": "CSE Faculty Room",
+  "lat": 16.8458359,
+  "lon": 74.6008345,
+  "kind": "faculty",
+  "nearest_node": 8994690166,
+  "anchor_dist_m": 51.7
+ },
+ {
+  "name": "CSE H.O.D Cabin",
+  "lat": 16.845815,
+  "lon": 74.6009212,
+  "kind": "staff cabin",
+  "nearest_node": 8994690166,
+  "anchor_dist_m": 43.0
+ },
+ {
+  "name": "Chemistry Lab",
+  "lat": 16.8459673,
+  "lon": 74.6004434,
+  "kind": "lab",
+  "nearest_node": 13678206754,
+  "anchor_dist_m": 26.5
+ },
+ {
+  "name": "Chintamanrao College Library",
+  "lat": 16.8477229,
+  "lon": 74.6054487,
+  "kind": "library",
+  "nearest_node": 4403979017,
+  "anchor_dist_m": 214.2
+ },
+ {
+  "name": "Chintamanrao College of Commerce",
+  "lat": 16.8479809,
+  "lon": 74.6041753,
+  "kind": "building",
+  "nearest_node": 4310439541,
+  "anchor_dist_m": 102.8
+ },
+ {
+  "name": "Chintamanrao Institute of Management Development And Research",
+  "lat": 16.8470158,
+  "lon": 74.6025159,
+  "kind": "building",
+  "nearest_node": 4403979016,
+  "anchor_dist_m": 75.3
+ },
+ {
+  "name": "Civil Computing Facility",
+  "lat": 16.8445837,
+  "lon": 74.6001516,
+  "kind": "toilets",
+  "nearest_node": 8994690172,
+  "anchor_dist_m": 11.8
+ },
+ {
+  "name": "Civil Engg. Faculty Room",
+  "lat": 16.8445837,
+  "lon": 74.6001516,
+  "kind": "faculty",
+  "nearest_node": 8994690172,
+  "anchor_dist_m": 11.8
+ },
+ {
+  "name": "Civil Engg. H.O.D (Polytechnic)",
+  "lat": 16.8444295,
+  "lon": 74.600508,
+  "kind": "faculty",
+  "nearest_node": 8994690169,
+  "anchor_dist_m": 6.4
+ },
+ {
+  "name": "Civil Engg. H.O.D Cabin",
+  "lat": 16.8445837,
+  "lon": 74.6001516,
+  "kind": "staff cabin",
+  "nearest_node": 8994690172,
+  "anchor_dist_m": 11.8
+ },
+ {
+  "name": "Civil Engineering Drawing Hall",
+  "lat": 16.8445837,
+  "lon": 74.6001516,
+  "kind": "hall",
+  "nearest_node": 8994690172,
+  "anchor_dist_m": 11.8
+ },
+ {
+  "name": "Class Room 1",
+  "lat": 16.8447094,
+  "lon": 74.6013085,
+  "kind": "classroom",
+  "nearest_node": 4310623360,
+  "anchor_dist_m": 34.3
+ },
+ {
+  "name": "Class Room 10",
+  "lat": 16.8441877,
+  "lon": 74.6010957,
+  "kind": "classroom",
+  "nearest_node": 8994690173,
+  "anchor_dist_m": 24.0
+ },
+ {
+  "name": "Class Room 11",
+  "lat": 16.8442081,
+  "lon": 74.601021,
+  "kind": "classroom",
+  "nearest_node": 8994690173,
+  "anchor_dist_m": 16.2
+ },
+ {
+  "name": "Class Room 12",
+  "lat": 16.8442296,
+  "lon": 74.6009431,
+  "kind": "classroom",
+  "nearest_node": 8994690173,
+  "anchor_dist_m": 8.9
+ },
+ {
+  "name": "Class Room 13",
+  "lat": 16.8442711,
+  "lon": 74.6007948,
+  "kind": "classroom",
+  "nearest_node": 8994690173,
+  "anchor_dist_m": 12.0
+ },
+ {
+  "name": "Class Room 14",
+  "lat": 16.8442898,
+  "lon": 74.600729,
+  "kind": "classroom",
+  "nearest_node": 8994690173,
+  "anchor_dist_m": 18.6
+ },
+ {
+  "name": "Class Room 15",
+  "lat": 16.8443067,
+  "lon": 74.6006708,
+  "kind": "classroom",
+  "nearest_node": 8994690173,
+  "anchor_dist_m": 24.7
+ },
+ {
+  "name": "Class Room 16",
+  "lat": 16.844322,
+  "lon": 74.6006185,
+  "kind": "classroom",
+  "nearest_node": 8994690169,
+  "anchor_dist_m": 21.5
+ },
+ {
+  "name": "Class Room 17",
+  "lat": 16.8443388,
+  "lon": 74.6005619,
+  "kind": "classroom",
+  "nearest_node": 8994690169,
+  "anchor_dist_m": 15.6
+ },
+ {
+  "name": "Class Room 18",
+  "lat": 16.844361,
+  "lon": 74.6004881,
+  "kind": "classroom",
+  "nearest_node": 8994690169,
+  "anchor_dist_m": 8.4
+ },
+ {
+  "name": "Class Room 2",
+  "lat": 16.8446884,
+  "lon": 74.6013942,
+  "kind": "classroom",
+  "nearest_node": 4310623361,
+  "anchor_dist_m": 27.1
+ },
+ {
+  "name": "Class Room 20",
+  "lat": 16.8447529,
+  "lon": 74.6006006,
+  "kind": "classroom",
+  "nearest_node": 8994690169,
+  "anchor_dist_m": 39.8
+ },
+ {
+  "name": "Class Room 21",
+  "lat": 16.8447455,
+  "lon": 74.6011595,
+  "kind": "classroom",
+  "nearest_node": 4310623360,
+  "anchor_dist_m": 20.5
+ },
+ {
+  "name": "Class Room 3",
+  "lat": 16.8446855,
+  "lon": 74.6014944,
+  "kind": "classroom",
+  "nearest_node": 4310623361,
+  "anchor_dist_m": 17.1
+ },
+ {
+  "name": "Class Room 4",
+  "lat": 16.8445679,
+  "lon": 74.6014794,
+  "kind": "classroom",
+  "nearest_node": 4310623361,
+  "anchor_dist_m": 26.6
+ },
+ {
+  "name": "Class Room 5",
+  "lat": 16.844496,
+  "lon": 74.6014584,
+  "kind": "classroom",
+  "nearest_node": 4310623361,
+  "anchor_dist_m": 34.4
+ },
+ {
+  "name": "Class Room 6",
+  "lat": 16.8442805,
+  "lon": 74.6013964,
+  "kind": "classroom",
+  "nearest_node": 13528526260,
+  "anchor_dist_m": 42.6
+ },
+ {
+  "name": "Class Room 7",
+  "lat": 16.8442093,
+  "lon": 74.6013756,
+  "kind": "classroom",
+  "nearest_node": 13528526260,
+  "anchor_dist_m": 35.1
+ },
+ {
+  "name": "Class Room 8",
+  "lat": 16.8441441,
+  "lon": 74.6012577,
+  "kind": "classroom",
+  "nearest_node": 13528526260,
+  "anchor_dist_m": 33.1
+ },
+ {
+  "name": "Class Room 9",
+  "lat": 16.844167,
+  "lon": 74.6011719,
+  "kind": "classroom",
+  "nearest_node": 8994690173,
+  "anchor_dist_m": 32.2
+ },
+ {
+  "name": "Class room 19",
+  "lat": 16.844485,
+  "lon": 74.6005242,
+  "kind": "classroom",
+  "nearest_node": 8994690169,
+  "anchor_dist_m": 10.4
+ },
+ {
+  "name": "Common Seating Area",
+  "lat": 16.8456302,
+  "lon": 74.6005256,
+  "kind": "social_centre",
+  "nearest_node": 4310623353,
+  "anchor_dist_m": 40.1
+ },
+ {
+  "name": "Concrete & Material Testing Lab",
+  "lat": 16.844816,
+  "lon": 74.6008597,
+  "kind": "lab",
+  "nearest_node": 4310623360,
+  "anchor_dist_m": 22.8
+ },
+ {
+  "name": "Construction Engg. Laboratory",
+  "lat": 16.8445837,
+  "lon": 74.6001516,
+  "kind": "lab",
+  "nearest_node": 8994690172,
+  "anchor_dist_m": 11.8
+ },
+ {
+  "name": "Cricket Ground",
+  "lat": 16.8428196,
+  "lon": 74.6008732,
+  "kind": "sports",
+  "nearest_node": 13528526260,
+  "anchor_dist_m": 134.0
+ },
+ {
+  "name": "Cyber Hostel",
+  "lat": 16.8453504,
+  "lon": 74.6021647,
+  "kind": "hostel",
+  "nearest_node": 13682475476,
+  "anchor_dist_m": 26.9
+ },
+ {
+  "name": "D1 Block",
+  "lat": 16.8452244,
+  "lon": 74.6033684,
+  "kind": "building",
+  "nearest_node": 4310623369,
+  "anchor_dist_m": 95.6
+ },
+ {
+  "name": "D2 Block",
+  "lat": 16.8447085,
+  "lon": 74.6032369,
+  "kind": "building",
+  "nearest_node": 4310623369,
+  "anchor_dist_m": 39.3
+ },
+ {
+  "name": "D3 Block",
+  "lat": 16.8442351,
+  "lon": 74.6033417,
+  "kind": "building",
+  "nearest_node": 4310623369,
+  "anchor_dist_m": 43.8
+ },
+ {
+  "name": "D4 Block",
+  "lat": 16.8441038,
+  "lon": 74.6038656,
+  "kind": "building",
+  "nearest_node": 13690832250,
+  "anchor_dist_m": 88.4
+ },
+ {
+  "name": "DBE Lab",
+  "lat": 16.8457856,
+  "lon": 74.6009888,
+  "kind": "lab",
+  "nearest_node": 8994690166,
+  "anchor_dist_m": 35.5
+ },
+ {
+  "name": "DBK SIR CABIN",
+  "lat": 16.8455439,
+  "lon": 74.6008014,
+  "kind": "staff cabin",
+  "nearest_node": 8994690166,
+  "anchor_dist_m": 45.1
+ },
+ {
+  "name": "Deccan Education Society Campus",
+  "lat": 16.8481815,
+  "lon": 74.6039539,
+  "kind": "university",
+  "nearest_node": 4310439541,
+  "anchor_dist_m": 74.2
+ },
+ {
+  "name": "Department of Civil Enginneering",
+  "lat": 16.8445837,
+  "lon": 74.6001516,
+  "kind": "department",
+  "nearest_node": 8994690172,
+  "anchor_dist_m": 11.8
+ },
+ {
+  "name": "Department of Electrical Engineering",
+  "lat": 16.8450698,
+  "lon": 74.6014388,
+  "kind": "department",
+  "nearest_node": 4310623338,
+  "anchor_dist_m": 36.6
+ },
+ {
+  "name": "Department of Mechanical Engineering",
+  "lat": 16.8451494,
+  "lon": 74.6003025,
+  "kind": "department",
+  "nearest_node": 4310623353,
+  "anchor_dist_m": 51.6
+ },
+ {
+  "name": "Design & Atomation Lab",
+  "lat": 16.8456793,
+  "lon": 74.6014511,
+  "kind": "lab",
+  "nearest_node": 8994690166,
+  "anchor_dist_m": 27.5
+ },
+ {
+  "name": "ELN PG Research Lab",
+  "lat": 16.8456165,
+  "lon": 74.6017032,
+  "kind": "lab",
+  "nearest_node": 13682475475,
+  "anchor_dist_m": 23.5
+ },
+ {
+  "name": "Electronics Computer Lab",
+  "lat": 16.8454104,
+  "lon": 74.6016524,
+  "kind": "lab",
+  "nearest_node": 4310623358,
+  "anchor_dist_m": 23.4
+ },
+ {
+  "name": "Electronics Department H.O.D.",
+  "lat": 16.845619,
+  "lon": 74.6012286,
+  "kind": "faculty",
+  "nearest_node": 8994690166,
+  "anchor_dist_m": 6.6
+ },
+ {
+  "name": "Engine Entrance",
+  "lat": 16.8457229,
+  "lon": 74.601254,
+  "kind": "common",
+  "nearest_node": 8994690166,
+  "anchor_dist_m": 18.4
+ },
+ {
+  "name": "Engine Statue",
+  "lat": 16.845846,
+  "lon": 74.6013119,
+  "kind": "artwork",
+  "nearest_node": 13682475472,
+  "anchor_dist_m": 8.2
+ },
+ {
+  "name": "Environmental Engineering Laboratory",
+  "lat": 16.844796,
+  "lon": 74.6000517,
+  "kind": "lab",
+  "nearest_node": 8994690172,
+  "anchor_dist_m": 29.3
+ },
+ {
+  "name": "Exam Center",
+  "lat": 16.843929,
+  "lon": 74.6023248,
+  "kind": "prep_school",
+  "nearest_node": 4310623348,
+  "anchor_dist_m": 33.4
+ },
+ {
+  "name": "Faculty Cabin",
+  "lat": 16.845944,
+  "lon": 74.6006241,
+  "kind": "staff cabin",
+  "nearest_node": 13678206754,
+  "anchor_dist_m": 41.2
+ },
+ {
+  "name": "Faculty Room",
+  "lat": 16.8455512,
+  "lon": 74.6021148,
+  "kind": "faculty",
+  "nearest_node": 13682475475,
+  "anchor_dist_m": 23.0
+ },
+ {
+  "name": "Faculty Rooms",
+  "lat": 16.8448642,
+  "lon": 74.6006501,
+  "kind": "faculty",
+  "nearest_node": 4310623360,
+  "anchor_dist_m": 43.3
+ },
+ {
+  "name": "Fluid Mechanics/ Hydralaurics Laboratory",
+  "lat": 16.8446448,
+  "lon": 74.6002769,
+  "kind": "lab",
+  "nearest_node": 8994690172,
+  "anchor_dist_m": 26.8
+ },
+ {
+  "name": "Football Field",
+  "lat": 16.8430779,
+  "lon": 74.6005192,
+  "kind": "sports",
+  "nearest_node": 4310623344,
+  "anchor_dist_m": 122.7
+ },
+ {
+  "name": "GREEN LAB",
+  "lat": 16.8456511,
+  "lon": 74.6007818,
+  "kind": "lab",
+  "nearest_node": 8994690166,
+  "anchor_dist_m": 48.2
+ },
+ {
+  "name": "Ganpati Mandir",
+  "lat": 16.8448915,
+  "lon": 74.6018507,
+  "kind": "temple",
+  "nearest_node": 4310623361,
+  "anchor_dist_m": 27.3
+ },
+ {
+  "name": "Generator Room",
+  "lat": 16.8452677,
+  "lon": 74.6008058,
+  "kind": "building",
+  "nearest_node": 8994690165,
+  "anchor_dist_m": 37.8
+ },
+ {
+  "name": "Geotechnical Engg. Laboratory",
+  "lat": 16.8445837,
+  "lon": 74.6001516,
+  "kind": "lab",
+  "nearest_node": 8994690172,
+  "anchor_dist_m": 11.8
+ },
+ {
+  "name": "Girls Common Room",
+  "lat": 16.8457493,
+  "lon": 74.6011427,
+  "kind": "building",
+  "nearest_node": 8994690166,
+  "anchor_dist_m": 22.8
+ },
+ {
+  "name": "Girls Hostel Mess",
+  "lat": 16.8450604,
+  "lon": 74.6042161,
+  "kind": "hostel",
+  "nearest_node": 4310623369,
+  "anchor_dist_m": 147.2
+ },
+ {
+  "name": "Girls Reading Room",
+  "lat": 16.8446888,
+  "lon": 74.60195,
+  "kind": "reading room",
+  "nearest_node": 14028528362,
+  "anchor_dist_m": 28.4
+ },
+ {
+  "name": "Government Canteen",
+  "lat": 16.8433412,
+  "lon": 74.6019485,
+  "kind": "canteen",
+  "nearest_node": 4310623348,
+  "anchor_dist_m": 55.5
+ },
+ {
+  "name": "Gym Khana",
+  "lat": 16.8437073,
+  "lon": 74.6015436,
+  "kind": "fitness_centre",
+  "nearest_node": 13528526260,
+  "anchor_dist_m": 24.3
+ },
+ {
+  "name": "IOT Hut",
+  "lat": 16.8454548,
+  "lon": 74.6009954,
+  "kind": "hut",
+  "nearest_node": 8994690165,
+  "anchor_dist_m": 23.1
+ },
+ {
+  "name": "IPCV Lab",
+  "lat": 16.8457704,
+  "lon": 74.6010626,
+  "kind": "lab",
+  "nearest_node": 8994690166,
+  "anchor_dist_m": 29.1
+ },
+ {
+  "name": "IT HOD CABIN",
+  "lat": 16.8458531,
+  "lon": 74.6008262,
+  "kind": "staff cabin",
+  "nearest_node": 8994690166,
+  "anchor_dist_m": 53.5
+ },
+ {
+  "name": "IT HUT",
+  "lat": 16.8455713,
+  "lon": 74.6010155,
+  "kind": "hut",
+  "nearest_node": 8994690166,
+  "anchor_dist_m": 22.3
+ },
+ {
+  "name": "IT Hut",
+  "lat": 16.8454364,
+  "lon": 74.6014217,
+  "kind": "hut",
+  "nearest_node": 8994690166,
+  "anchor_dist_m": 25.0
+ },
+ {
+  "name": "John Deere Research Lab",
+  "lat": 16.8456377,
+  "lon": 74.6016087,
+  "kind": "lab",
+  "nearest_node": 13682475475,
+  "anchor_dist_m": 33.7
+ },
+ {
+  "name": "Library Park",
+  "lat": 16.8440694,
+  "lon": 74.6018273,
+  "kind": "library",
+  "nearest_node": 4310623348,
+  "anchor_dist_m": 33.7
+ },
+ {
+  "name": "Lipton",
+  "lat": 16.844463,
+  "lon": 74.6023384,
+  "kind": "cafe",
+  "nearest_node": 14028528362,
+  "anchor_dist_m": 24.3
+ },
+ {
+  "name": "Lipton",
+  "lat": 16.8444801,
+  "lon": 74.6023231,
+  "kind": "cafe",
+  "nearest_node": 14028528362,
+  "anchor_dist_m": 21.8
+ },
+ {
+  "name": "MGR SIR CABIN",
+  "lat": 16.8458408,
+  "lon": 74.6008228,
+  "kind": "staff cabin",
+  "nearest_node": 8994690166,
+  "anchor_dist_m": 53.0
+ },
+ {
+  "name": "Main CCF",
+  "lat": 16.8459938,
+  "lon": 74.600413,
+  "kind": "bank",
+  "nearest_node": 13678206754,
+  "anchor_dist_m": 22.4
+ },
+ {
+  "name": "Measurement & Control Lab",
+  "lat": 16.8456589,
+  "lon": 74.6007918,
+  "kind": "lab",
+  "nearest_node": 8994690166,
+  "anchor_dist_m": 47.4
+ },
+ {
+  "name": "Mechanical Department Hut",
+  "lat": 16.8447988,
+  "lon": 74.6003973,
+  "kind": "hut",
+  "nearest_node": 8994690169,
+  "anchor_dist_m": 41.8
+ },
+ {
+  "name": "Mechanical Department Lab",
+  "lat": 16.8453867,
+  "lon": 74.6003158,
+  "kind": "lab",
+  "nearest_node": 4310623353,
+  "anchor_dist_m": 28.7
+ },
+ {
+  "name": "Mechanical Department Seminar Hall",
+  "lat": 16.8453781,
+  "lon": 74.6005609,
+  "kind": "hall",
+  "nearest_node": 4310623353,
+  "anchor_dist_m": 49.6
+ },
+ {
+  "name": "Mechanical Engg. Faculty Room",
+  "lat": 16.8449679,
+  "lon": 74.6000842,
+  "kind": "faculty",
+  "nearest_node": 8994690172,
+  "anchor_dist_m": 48.6
+ },
+ {
+  "name": "Mechatronics Lab",
+  "lat": 16.8455407,
+  "lon": 74.6007587,
+  "kind": "lab",
+  "nearest_node": 8994690165,
+  "anchor_dist_m": 49.2
+ },
+ {
+  "name": "Mini CCF",
+  "lat": 16.8455874,
+  "lon": 74.6021596,
+  "kind": "computer",
+  "nearest_node": 13682475475,
+  "anchor_dist_m": 28.4
+ },
+ {
+  "name": "N2 classroom",
+  "lat": 16.8459289,
+  "lon": 74.6006628,
+  "kind": "classroom",
+  "nearest_node": 13678206754,
+  "anchor_dist_m": 45.5
+ },
+ {
+  "name": "Nisarg Garden",
+  "lat": 16.8447704,
+  "lon": 74.5961209,
+  "kind": "garden",
+  "nearest_node": 4310623336,
+  "anchor_dist_m": 329.6
+ },
+ {
+  "name": "ORANGE LAB",
+  "lat": 16.8457965,
+  "lon": 74.6009153,
+  "kind": "lab",
+  "nearest_node": 8994690166,
+  "anchor_dist_m": 42.2
+ },
+ {
+  "name": "Open Theatre",
+  "lat": 16.8446073,
+  "lon": 74.6005822,
+  "kind": "dance",
+  "nearest_node": 8994690169,
+  "anchor_dist_m": 24.7
+ },
+ {
+  "name": "PG Computing Laboratory",
+  "lat": 16.8456146,
+  "lon": 74.6018929,
+  "kind": "lab",
+  "nearest_node": 13682475475,
+  "anchor_dist_m": 10.3
+ },
+ {
+  "name": "PG Control Lab",
+  "lat": 16.8450352,
+  "lon": 74.6014208,
+  "kind": "lab",
+  "nearest_node": 4310623361,
+  "anchor_dist_m": 39.2
+ },
+ {
+  "name": "PG lab",
+  "lat": 16.8459537,
+  "lon": 74.6005918,
+  "kind": "lab",
+  "nearest_node": 13678206754,
+  "anchor_dist_m": 37.9
+ },
+ {
+  "name": "Physics Laboratory",
+  "lat": 16.8458412,
+  "lon": 74.6003582,
+  "kind": "lab",
+  "nearest_node": 4310623353,
+  "anchor_dist_m": 35.6
+ },
+ {
+  "name": "Pickleball Court",
+  "lat": 16.8438347,
+  "lon": 74.6010171,
+  "kind": "sports",
+  "nearest_node": 13528526260,
+  "anchor_dist_m": 44.9
+ },
+ {
+  "name": "Product and Innovation Laboratory",
+  "lat": 16.8451573,
+  "lon": 74.6008786,
+  "kind": "lab",
+  "nearest_node": 4310623360,
+  "anchor_dist_m": 34.2
+ },
+ {
+  "name": "Programming Lab/ Mini CCF",
+  "lat": 16.8455279,
+  "lon": 74.6022043,
+  "kind": "lab",
+  "nearest_node": 13682475476,
+  "anchor_dist_m": 26.8
+ },
+ {
+  "name": "R & A Laboratory",
+  "lat": 16.8454159,
+  "lon": 74.6002105,
+  "kind": "lab",
+  "nearest_node": 4310623353,
+  "anchor_dist_m": 20.4
+ },
+ {
+  "name": "Research & Development Laboratory",
+  "lat": 16.84483,
+  "lon": 74.6007984,
+  "kind": "lab",
+  "nearest_node": 4310623360,
+  "anchor_dist_m": 28.4
+ },
+ {
+  "name": "SHETTY MAM CABIN",
+  "lat": 16.8455842,
+  "lon": 74.6007583,
+  "kind": "staff cabin",
+  "nearest_node": 8994690166,
+  "anchor_dist_m": 49.7
+ },
+ {
+  "name": "Samruddhi Industries Limited / Samruddhi Value Marketing Limited",
+  "lat": 16.8498927,
+  "lon": 74.6031919,
+  "kind": "commercial",
+  "nearest_node": 4310404188,
+  "anchor_dist_m": 83.4
+ },
+ {
+  "name": "Saraswati Idol",
+  "lat": 16.8440936,
+  "lon": 74.6018128,
+  "kind": "artwork",
+  "nearest_node": 4310623348,
+  "anchor_dist_m": 36.7
+ },
+ {
+  "name": "Security Post",
+  "lat": 16.8455594,
+  "lon": 74.6028098,
+  "kind": "security",
+  "nearest_node": 13682475474,
+  "anchor_dist_m": 36.6
+ },
+ {
+  "name": "Seminar Hall",
+  "lat": 16.8450126,
+  "lon": 74.6015175,
+  "kind": "hall",
+  "nearest_node": 4310623338,
+  "anchor_dist_m": 31.2
+ },
+ {
+  "name": "Shree Ramkumar Rathi Research Centre",
+  "lat": 16.8448452,
+  "lon": 74.6007323,
+  "kind": "building",
+  "nearest_node": 4310623360,
+  "anchor_dist_m": 34.9
+ },
+ {
+  "name": "Shri Kantilal Purushottamdas Shah Prashala",
+  "lat": 16.847983,
+  "lon": 74.6017053,
+  "kind": "building",
+  "nearest_node": 4403979016,
+  "anchor_dist_m": 157.2
+ },
+ {
+  "name": "Staaff Cabins",
+  "lat": 16.8447612,
+  "lon": 74.601094,
+  "kind": "staff cabin",
+  "nearest_node": 4310623360,
+  "anchor_dist_m": 16.0
+ },
+ {
+  "name": "Staff Cabins",
+  "lat": 16.8456939,
+  "lon": 74.6013888,
+  "kind": "staff cabin",
+  "nearest_node": 8994690166,
+  "anchor_dist_m": 23.0
+ },
+ {
+  "name": "Staff Rooms",
+  "lat": 16.845728,
+  "lon": 74.6003274,
+  "kind": "staff",
+  "nearest_node": 4310623353,
+  "anchor_dist_m": 24.2
+ },
+ {
+  "name": "Structural Dynamics & Earthquake Engg. Laboratory",
+  "lat": 16.8447285,
+  "lon": 74.6012305,
+  "kind": "lab",
+  "nearest_node": 4310623360,
+  "anchor_dist_m": 26.7
+ },
+ {
+  "name": "Students Section",
+  "lat": 16.8451434,
+  "lon": 74.6026124,
+  "kind": "office",
+  "nearest_node": 4310623359,
+  "anchor_dist_m": 31.5
+ },
+ {
+  "name": "System & Semiconductor Lab",
+  "lat": 16.8456608,
+  "lon": 74.6015272,
+  "kind": "lab",
+  "nearest_node": 8994690166,
+  "anchor_dist_m": 34.1
+ },
+ {
+  "name": "Tennis Court",
+  "lat": 16.8439039,
+  "lon": 74.600515,
+  "kind": "sports",
+  "nearest_node": 4310623344,
+  "anchor_dist_m": 53.1
+ },
+ {
+  "name": "Thinking Tree",
+  "lat": 16.8444659,
+  "lon": 74.6010483,
+  "kind": "common",
+  "nearest_node": 8994690173,
+  "anchor_dist_m": 24.0
+ },
+ {
+  "name": "Tilak Hall",
+  "lat": 16.8444198,
+  "lon": 74.6013103,
+  "kind": "hall",
+  "nearest_node": 8994690173,
+  "anchor_dist_m": 45.3
+ },
+ {
+  "name": "Transportation Engineering Laboratory Annex",
+  "lat": 16.8445695,
+  "lon": 74.6003659,
+  "kind": "lab",
+  "nearest_node": 8994690169,
+  "anchor_dist_m": 18.2
+ },
+ {
+  "name": "UBC SIR CABIN",
+  "lat": 16.8455743,
+  "lon": 74.6007615,
+  "kind": "staff cabin",
+  "nearest_node": 8994690166,
+  "anchor_dist_m": 49.3
+ },
+ {
+  "name": "Velankar Hall",
+  "lat": 16.8499782,
+  "lon": 74.600441,
+  "kind": "hall",
+  "nearest_node": 4310420929,
+  "anchor_dist_m": 57.6
+ },
+ {
+  "name": "Walchand Globe",
+  "lat": 16.8443251,
+  "lon": 74.6017402,
+  "kind": "artwork",
+  "nearest_node": 4310623361,
+  "anchor_dist_m": 48.6
+ },
+ {
+  "name": "Walchand Running Track",
+  "lat": 16.8428172,
+  "lon": 74.600875,
+  "kind": "track",
+  "nearest_node": 13528526260,
+  "anchor_dist_m": 134.2
+ },
+ {
+  "name": "Willingdon College",
+  "lat": 16.8501988,
+  "lon": 74.5998772,
+  "kind": "building",
+  "nearest_node": 4310420939,
+  "anchor_dist_m": 43.9
+ },
+ {
+  "name": "Workshop Laboratory No. 2",
+  "lat": 16.8459519,
+  "lon": 74.6000426,
+  "kind": "lab",
+  "nearest_node": 13678206754,
+  "anchor_dist_m": 38.6
+ }
+]

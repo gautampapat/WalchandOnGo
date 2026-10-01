@@ -1,0 +1,7 @@
+__pycache__/
+.pytest_cache/
+.playwright-mcp/
+node_modules/
+
+# Personal GPS track (someone's lodging + timestamps) — keep local, never publish.
+archive/
